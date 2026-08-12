@@ -1,16 +1,40 @@
-## Hi there 👋
+# Binghao Guo
 
-<!--
-**BGuoMax/BGuoMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Artificial Intelligence @ Leiden University
 
-Here are some ideas to get you started:
+I am interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Large Language Models (LLMs)
+- Recommender Systems
+- Machine Learning
+- AI Agents
+- Applied AI
+
+## Tech Stack
+
+**Languages**
+
+Python • Java • SQL • Bash
+
+**Machine Learning**
+
+PyTorch • scikit-learn • XGBoost • LightGBM
+
+**LLMs**
+
+Transformers • OpenAI API • LangChain
+
+**Tools**
+
+Git • Docker • Linux • VS Code
+
+## Current Projects
+
+- Sequential Recommendation (SASRec / BERT4Rec)
+- LLM Multi-Agent Systems
+- AI Knowledge Base
+
+## Contact
+
+- Email: your_email@example.com
+- LinkedIn: https://linkedin.com/in/...
