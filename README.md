@@ -36,5 +36,4 @@ Git • Docker • Linux • VS Code
 
 ## Contact
 
-- Email: your_email@example.com
-- LinkedIn: https://linkedin.com/in/...
+- Email: guobinghao_25@163.com
