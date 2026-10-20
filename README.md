@@ -4,10 +4,13 @@ M.Sc. Artificial Intelligence @ Leiden University
 
 I am interested in:
 
+- Efficient Artificial Intelligence
+- Vision-Language Models (VLMs)
 - Large Language Models (LLMs)
 - Recommender Systems
 - Machine Learning
 - AI Agents
+- Edge AI
 - Applied AI
 
 ## Tech Stack
@@ -27,12 +30,6 @@ Transformers • OpenAI API • LangChain
 **Tools**
 
 Git • Docker • Linux • VS Code
-
-## Current Projects
-
-- Sequential Recommendation (SASRec / BERT4Rec)
-- LLM Multi-Agent Systems
-- AI Knowledge Base
 
 ## Contact
 
